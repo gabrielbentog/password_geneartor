@@ -1,5 +1,7 @@
 # Gerador de Senhas
 
+![Password Generator Demo](gifs/use.gif)
+
 Um aplicativo simples de gerador de senhas utilizando Tkinter em Python. Este programa permite aos usuários criar senhas seguras de forma fácil, personalizando os critérios de complexidade, como comprimento e tipos de caracteres.
 
 ## Funcionalidades
